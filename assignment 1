@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>trial</title>
+</head>
+<style>
+#webpages {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10px;
+    width: 100%;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: 16px;
+}
+</style>
+<body>
+    <div class="header" style="display:flex; justify-content: space-between; align-items: center;">
+ <img src="iitr logo 4.png" alt="iitr-logo" id="iitr-logo" width="431.25px";
+height="60px";
+left="120px";
+top="40px";>
+<div id="language">
+    हिन्दी | Eng
+ </div>
+ <div id="size">
+<span style="font-size: 12px;">A-</span>
+ <span style="font-size: 14px;">A</span>
+ <span style="font-size: 16px;">A+</span> 
+ </div>
+ <div id="mode">
+    <button id="light-mode"
+    style="border: 2px solid #0067b3; background-color: white; border-radius: 2px;">A</button>
+<button id="dark-mode"
+    style="border: 2px solid #0067b3; background-color: #0067b3; color: white; border-radius: 1px;">A</button> 
+ </div>
+ <div id="search-icon-image">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Search_Icon.svg/1024px-Search_Icon.svg.png"
+                          width="20px">
+    </div>
+    <br>
+    <div id="lower-options"
+        style="display: flex; flex-direction: row; justify-content: space-between;font-family: sans-serif; font-size: 12px;gap: 10px;">
+        <div>
+            CALENDER
+        </div>
+        <div>
+            CONTACT US
+        </div>
+        <div>
+            DIRECTORY
+       </div>
+      </div>
+</div>
+<hr style="width: 80%; margin-top: 30px; border: 1px solid lightblue;"> 
+<div class="webpages">
+    <div style="display: flex; flex-direction: row; justify-content: space-evenly;">
+    <div style="display: flex; flex-direction: row;">
+        <div>INSTITUTE</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="auto"
+            height="20px">
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>ADMISSIONS</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>ACADEMICS</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>CAMPUS LIFE</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>DEPARTMENTS</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>RESEARCH</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>CAREERS</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>PLACEMENTS</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+
+    </div>
+    <div style="display: flex; flex-direction: row;">
+        <div>RESOURCES</div>
+        <img src="https://cdn.iconscout.com/icon/free/png-256/keyboard-down-arrow-1780093-1518654.png" width="20px"
+            height="20px">
+    </div>
+    </div>
+</div>
+</div> 
+<br>
+<div style="height: 288px; margin: top 20px; background-color: #0067b3; width: 100%;">
+  <div
+  style="padding-top: 34px; padding-left: 10%; color: white; display: flex; flex-direction: row; gap: 10px;">
+  <div style="font-family:  sans-serif;"> HOME </div>
+  
+  <div style="font-family: sans-serif; font-weight: 300;"> > TEAM </div>
+</div>
+<br><br><br>
+ <div style="padding: top 110px ;padding-left: 10%;color: white; font-family:'Lato' sans-serif;
+ font-size: 20px;font-weight: 500;">MEET THE TEAM </div>
+<div
+    style="padding-top: 30px; padding-left: 10%; padding-right: 10%; color: white; font-family:'Lato' sans-serif; padding-bottom: 48px;">
+    Get to know the developers and designers behind the website!
+</div>
+
+ </div> 
+ <br>
+<div
+style="padding-top: 47px; font:  sans-serif; padding-bottom: 47px; padding-left: 10%; padding-right: 10%;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+It is a general belief that a branch change is a big task and a very difficult thing to achieve. However with a
+little hard work and focus it is possible. The modus operandi for changing your branch is to get a good GPA. For
+this, firstly attend classes regularly. Though this might seem tedious and boring, it has its benefits. It helps
+prevent a last minute rush when exams are near. Secondly making proper notes is also important.
+</div>
+<div style="padding-left: 10%; font-size: 28px; font-family: sans-serif; font-weight: 500; margin-bottom: 75px;">
+    DESIGNERS
+</div>
+
+<div class="profile-area">
+    <div style="height:100px; margin: top 20px; background-color: #0067b3; width: 100%;">
+    <div style="display: flex; flex-direction: row; justify-content:space-evenly;">
+    <div class="profile-background">
+        
+        
+        <img src="yavnika.png" position: absolute;
+        width: 296px;
+        height: 296px;
+        left: 144px;
+        top: 1457px; style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">YAVNIKA GARG</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Associate, II year</span><br>
+        <hr style="margin-top: 14px; width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="gouranshi.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">GOURANSHI CHOUDHARY</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Chief of Design, IV year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="kimaya.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">KIMAYA PATIL</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Lead, III year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    </div>
+</div>
+</div>
+</div>
+<br><br><br>
+<div style="padding-left: 10%; font-size: 28px; font-family: sans-serif; font-weight: 500; margin-bottom: 75px;">
+    DEVELOPERS
+</div>
+
+<div class="profile-area">
+    <div style="height:100px; margin: top 20px; background-color: #0067b3; width: 100%;">
+    <div style="display: flex; flex-direction: row; justify-content:space-evenly;">
+    <div class="profile-background">
+        
+        <img src="yavnika.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">YAVNIKA GARG</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Associate, II year</span><br>
+        <hr style="margin-top: 14px; width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="gouranshi.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">GOURANSHI CHOUDHARY</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Chief of Design, IV year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="kimaya.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">KIMAYA PATIL</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Lead, III year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    </div>
+</div>
+</div>
+</div>
+<br><br><br>
+<br>
+<br>
+<div class="profile-area">
+    <div style="height:100px; margin: top 20px; background-color: #0067b3; width: 100%;">
+    <div style="display: flex; flex-direction: row; justify-content:space-evenly;">
+    <div class="profile-background">
+        
+        <img src="yavnika.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">YAVNIKA GARG</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Associate, II year</span><br>
+        <hr style="margin-top: 14px; width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="gouranshi.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">GOURANSHI CHOUDHARY</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Chief of Design, IV year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    <div class="profile-background">
+        <img src="kimaya.png" style="max-width: 100%; max-height: 100%; bottom: 0px; margin-bottom: 20px;" class="image-profile"><br>
+        <span style="font-family: sans-serif; font-weight: 500; font-size: 20px;">KIMAYA PATIL</span><br>
+        <span style="font-family: sans-serif; font-size: 16px; padding-top: 14px;color: gray;">Project Lead, III year</span><br>
+        <hr style=" width: 25%; border: 2px solid #FFD53D;"><br>
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+        <img src="Vector (1).png">
+    </div>
+    </div>
+</div>
+</div>
+</div>
+<br><br><br><br>
+<div class="footer">
+    <div style="display: flex; flex-direction: row; justify-content:space-evenly;">
+    <div id="contact">
+        <div>
+            Department of Chemical Engineering <br>IIT Roorkee
+        </div>
+        <div>
+            <img src="google-maps-chicago-100780535-large 1.png" width="250px" height="200px">
+        </div>
+        <div style="font-size: 14px;">
+            Contact us-
+        </div>
+        <div style="display: flex; flex-direction: row; gap: 5px; font-size: 14px; font-weight: 400;">
+        <img src="tele.png">
+        <span>
+            1234567223, 233233221
+        </span>
+        </div>
+        <div style="display: flex; flex-direction: row; gap: 5px; font-size: 14px;">
+        <img src="mail.png">
+        <span>
+            iitrconnect@iitr.ac.in
+        </span>
+        </div>
+        <div style="display: flex; flex-direction: row; gap: 20px;">
+        <img src="Vector (1).png" style="border-radius: 50%;">
+        <img src="Vector (1).png" style="border-radius: 50%;">
+        <img src="Vector (1).png" style="border-radius: 50%;">
+        <img src="Vector (1).png" style="border-radius: 50%;">
+        <img src="Vector (1).png" style="border-radius: 50%;">
+        </div>
+    </div>
+    <div id="explore">
+        <div style="padding-bottom: 15px;">
+            Explore
+        </div>
+        <hr style=" width: 25%; border:1px white;">
+            Department
+            <hr style=" width: 25%; border:1px white;">
+         Department 
+            <hr style=" width: 25%; border:1px white;">
+            Department
+            <hr style=" width: 25%; border:1px white;">
+           Department
+           <hr style=" width: 25%; border:1px white;">
+            Department
+            <hr style=" width: 25%; border:1px white;">
+            Department
+            <hr style=" width: 25%; border:1px white;">
+            Department
+        
+    </div>
+    <div id="quick-actions">
+        <div style="padding-bottom: 15px;">
+            Quick Actions
+        </div>
+        <hr style=" width: 25%; border:1px white;">
+            Apply Online
+        </span>
+        <hr style=" width: 25%; border:1px white;">
+            Donate
+            <hr style=" width: 25%; border:1px white;">
+        
+            Internet Portal
+            <hr style=" width: 25%; border:1px white;">
+        
+            Webmail
+            <hr style=" width: 25%; border:1px white;">
+        
+            Book guest house
+            <hr style=" width: 25%; border:1px white;">
+        
+            Support @IITR
+            <hr style=" width: 25%; border:1px white;">
+        
+            Give Feedback
+        
+    </div>
+    <div id="credits">
+        <div style="width: 272px; background-color:#C4C4C4;">
+        </div>
+        <div>
+            <img src="Rectangle 347.png" style="float: left; padding-top: 2px; padding-right: 5px;">
+            <span style="font-size: 14px;">Department Brochure</span><br>
+            <span style="font-size: 14px;">Photo Credits: Photography Club, IITR</span>
+            <div style="margin-top: 11px;">
+                <span style="font-size: 14px;">Made with ❤️ by :<br> Information Management Group, IITR</span>
+            </div>
+        </div>
+    </div>
+</div>
+<br><br>
+<div class="footer-strip-1">
+    <span>Sitemap</span>
+    <span>Privacy Policy</span>
+    <span>Accessibility</span>
+    <span style="margin-left: auto;">Total Pageviews: 24240</span>
+</div>
+<div class="footer-strip-2">
+    Copyright 2020, Institute Computer Centre, IIT Roorkee
+</div>
+
+
+
+</body>
+</html>
